@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🌱 Sou estudante de front end, atualmente cursando ADS e Engenharia de Software.<br>🤝 Estou procurando um estágio para expandir meus conhecimentos profissionais!<br><br>
 
 
